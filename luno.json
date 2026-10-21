@@ -10,23 +10,11 @@
     "method": "run"
   },
   "main": [
-    "src/CommunityOracle.js",
     "src/CommunityApp.js"
   ],
   "library": [
     "DomBasics.js",
-    "UITools.js"
-  ],
-  "processedCountSinceCheckpoint": 9,
-  "changedMethods": {
-    "Comments/luno.json": "2026-10-20T05:06:33.764Z",
-    "Comments/index.html": "2026-10-20T05:06:33.764Z",
-    "Comments/css/comments.css": "2026-10-20T05:06:33.764Z",
-    "src/CommunityOracle.js": "2026-10-20T05:06:33.764Z",
-    "Comments/js/UserManager.js": "2026-10-20T05:06:33.764Z",
-    "Comments/js/RatingPanel.js": "2026-10-20T05:06:33.764Z",
-    "Comments/js/CommentNode.js": "2026-10-20T05:06:33.764Z",
-    "Comments/js/CommentsInteractiveComponent.js": "2026-10-20T05:06:33.764Z",
-    "Comments/js/Comments.js": "2026-10-20T05:06:33.764Z"
-  }
+    "UITools.js",
+    "CommunityOracle.js"
+  ]
 }
